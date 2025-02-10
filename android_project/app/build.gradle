@@ -1,18 +1,18 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 25
-    namespace 'com.ece420.lab3'
+    compileSdkVersion 34
+    namespace 'com.ece420.makeMeBetter'
 
     defaultConfig {
-        applicationId 'com.ece420.lab3'
+        applicationId 'com.ece420.makeMeBetter'
         /*
            To run on earlier version of Android than android-21, do:
              *) set this minSDKVersion and cmake's ANDROID_PLATFORM to your version
              *) set ANDROID_STL to c++_static for some very earlier version android.
          */
         minSdkVersion 23
-        targetSdkVersion 25
+        targetSdkVersion 34
         versionCode 1
         versionName '1.0'
         externalNativeBuild {

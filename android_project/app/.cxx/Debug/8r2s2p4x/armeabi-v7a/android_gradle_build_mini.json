@@ -1,0 +1,28 @@
+{
+  "buildFiles": [
+    "C:\\Users\\joels\\OneDrive\\Desktop\\MakeMeBetterApp\\android_project\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "C:\\Users\\joels\\OneDrive\\Desktop\\MakeMeBetterApp\\android_project\\app\\src\\main\\cpp\\ndk-stl-config.cmake"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\joels\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\joels\\OneDrive\\Desktop\\MakeMeBetterApp\\android_project\\app\\.cxx\\Debug\\8r2s2p4x\\armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\joels\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\joels\\OneDrive\\Desktop\\MakeMeBetterApp\\android_project\\app\\.cxx\\Debug\\8r2s2p4x\\armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "echo::@6890427a1f51a3e7e1df": {
+      "artifactName": "echo",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\joels\\OneDrive\\Desktop\\MakeMeBetterApp\\android_project\\app\\build\\intermediates\\cxx\\Debug\\8r2s2p4x\\obj\\armeabi-v7a\\libecho.so",
+      "runtimeFiles": []
+    }
+  }
+}

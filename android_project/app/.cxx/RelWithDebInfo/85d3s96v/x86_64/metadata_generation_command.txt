@@ -1,0 +1,19 @@
+                        -HC:\Users\joels\OneDrive\Desktop\MakeMeBetterApp\android_project\app\src\main\cpp
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=23
+-DANDROID_PLATFORM=android-23
+-DANDROID_ABI=x86_64
+-DCMAKE_ANDROID_ARCH_ABI=x86_64
+-DANDROID_NDK=C:\Users\joels\AppData\Local\Android\Sdk\ndk\25.1.8937393
+-DCMAKE_ANDROID_NDK=C:\Users\joels\AppData\Local\Android\Sdk\ndk\25.1.8937393
+-DCMAKE_TOOLCHAIN_FILE=C:\Users\joels\AppData\Local\Android\Sdk\ndk\25.1.8937393\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=C:\Users\joels\AppData\Local\Android\Sdk\cmake\3.22.1\bin\ninja.exe
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\Users\joels\OneDrive\Desktop\MakeMeBetterApp\android_project\app\build\intermediates\cxx\RelWithDebInfo\85d3s96v\obj\x86_64
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=C:\Users\joels\OneDrive\Desktop\MakeMeBetterApp\android_project\app\build\intermediates\cxx\RelWithDebInfo\85d3s96v\obj\x86_64
+-DCMAKE_BUILD_TYPE=RelWithDebInfo
+-BC:\Users\joels\OneDrive\Desktop\MakeMeBetterApp\android_project\app\.cxx\RelWithDebInfo\85d3s96v\x86_64
+-GNinja
+-DANDROID_STL=c++_static
+                        Build command args: []
+                        Version: 2

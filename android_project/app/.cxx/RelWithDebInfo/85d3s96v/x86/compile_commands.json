@@ -1,0 +1,72 @@
+[
+{
+  "directory": "C:/Users/joels/OneDrive/Desktop/MakeMeBetterApp/android_project/app/.cxx/RelWithDebInfo/85d3s96v/x86",
+  "command": "C:\\Users\\joels\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android23 --sysroot=C:/Users/joels/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Decho_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++17 -stdlib=libc++ -Wall -Werror -O2 -g -DNDEBUG -fPIC -o CMakeFiles\\echo.dir\\audio_common.cpp.o -c C:\\Users\\joels\\OneDrive\\Desktop\\MakeMeBetterApp\\android_project\\app\\src\\main\\cpp\\audio_common.cpp",
+  "file": "C:\\Users\\joels\\OneDrive\\Desktop\\MakeMeBetterApp\\android_project\\app\\src\\main\\cpp\\audio_common.cpp"
+},
+{
+  "directory": "C:/Users/joels/OneDrive/Desktop/MakeMeBetterApp/android_project/app/.cxx/RelWithDebInfo/85d3s96v/x86",
+  "command": "C:\\Users\\joels\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android23 --sysroot=C:/Users/joels/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Decho_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++17 -stdlib=libc++ -Wall -Werror -O2 -g -DNDEBUG -fPIC -o CMakeFiles\\echo.dir\\audio_main.cpp.o -c C:\\Users\\joels\\OneDrive\\Desktop\\MakeMeBetterApp\\android_project\\app\\src\\main\\cpp\\audio_main.cpp",
+  "file": "C:\\Users\\joels\\OneDrive\\Desktop\\MakeMeBetterApp\\android_project\\app\\src\\main\\cpp\\audio_main.cpp"
+},
+{
+  "directory": "C:/Users/joels/OneDrive/Desktop/MakeMeBetterApp/android_project/app/.cxx/RelWithDebInfo/85d3s96v/x86",
+  "command": "C:\\Users\\joels\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android23 --sysroot=C:/Users/joels/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Decho_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++17 -stdlib=libc++ -Wall -Werror -O2 -g -DNDEBUG -fPIC -o CMakeFiles\\echo.dir\\audio_player.cpp.o -c C:\\Users\\joels\\OneDrive\\Desktop\\MakeMeBetterApp\\android_project\\app\\src\\main\\cpp\\audio_player.cpp",
+  "file": "C:\\Users\\joels\\OneDrive\\Desktop\\MakeMeBetterApp\\android_project\\app\\src\\main\\cpp\\audio_player.cpp"
+},
+{
+  "directory": "C:/Users/joels/OneDrive/Desktop/MakeMeBetterApp/android_project/app/.cxx/RelWithDebInfo/85d3s96v/x86",
+  "command": "C:\\Users\\joels\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android23 --sysroot=C:/Users/joels/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Decho_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++17 -stdlib=libc++ -Wall -Werror -O2 -g -DNDEBUG -fPIC -o CMakeFiles\\echo.dir\\audio_recorder.cpp.o -c C:\\Users\\joels\\OneDrive\\Desktop\\MakeMeBetterApp\\android_project\\app\\src\\main\\cpp\\audio_recorder.cpp",
+  "file": "C:\\Users\\joels\\OneDrive\\Desktop\\MakeMeBetterApp\\android_project\\app\\src\\main\\cpp\\audio_recorder.cpp"
+},
+{
+  "directory": "C:/Users/joels/OneDrive/Desktop/MakeMeBetterApp/android_project/app/.cxx/RelWithDebInfo/85d3s96v/x86",
+  "command": "C:\\Users\\joels\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android23 --sysroot=C:/Users/joels/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Decho_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++17 -stdlib=libc++ -Wall -Werror -O2 -g -DNDEBUG -fPIC -o CMakeFiles\\echo.dir\\debug_utils.cpp.o -c C:\\Users\\joels\\OneDrive\\Desktop\\MakeMeBetterApp\\android_project\\app\\src\\main\\cpp\\debug_utils.cpp",
+  "file": "C:\\Users\\joels\\OneDrive\\Desktop\\MakeMeBetterApp\\android_project\\app\\src\\main\\cpp\\debug_utils.cpp"
+},
+{
+  "directory": "C:/Users/joels/OneDrive/Desktop/MakeMeBetterApp/android_project/app/.cxx/RelWithDebInfo/85d3s96v/x86",
+  "command": "C:\\Users\\joels\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=i686-none-linux-android23 --sysroot=C:/Users/joels/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Decho_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -g -DNDEBUG -fPIC -o CMakeFiles\\echo.dir\\kiss_fft\\kiss_fft.c.o -c C:\\Users\\joels\\OneDrive\\Desktop\\MakeMeBetterApp\\android_project\\app\\src\\main\\cpp\\kiss_fft\\kiss_fft.c",
+  "file": "C:\\Users\\joels\\OneDrive\\Desktop\\MakeMeBetterApp\\android_project\\app\\src\\main\\cpp\\kiss_fft\\kiss_fft.c"
+},
+{
+  "directory": "C:/Users/joels/OneDrive/Desktop/MakeMeBetterApp/android_project/app/.cxx/RelWithDebInfo/85d3s96v/x86",
+  "command": "C:\\Users\\joels\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android23 --sysroot=C:/Users/joels/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Decho_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++17 -stdlib=libc++ -Wall -Werror -O2 -g -DNDEBUG -fPIC -o CMakeFiles\\echo.dir\\ece420_lib.cpp.o -c C:\\Users\\joels\\OneDrive\\Desktop\\MakeMeBetterApp\\android_project\\app\\src\\main\\cpp\\ece420_lib.cpp",
+  "file": "C:\\Users\\joels\\OneDrive\\Desktop\\MakeMeBetterApp\\android_project\\app\\src\\main\\cpp\\ece420_lib.cpp"
+},
+{
+  "directory": "C:/Users/joels/OneDrive/Desktop/MakeMeBetterApp/android_project/app/.cxx/RelWithDebInfo/85d3s96v/x86",
+  "command": "C:\\Users\\joels\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android23 --sysroot=C:/Users/joels/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Decho_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++17 -stdlib=libc++ -Wall -Werror -O2 -g -DNDEBUG -fPIC -o CMakeFiles\\echo.dir\\ece420_main.cpp.o -c C:\\Users\\joels\\OneDrive\\Desktop\\MakeMeBetterApp\\android_project\\app\\src\\main\\cpp\\ece420_main.cpp",
+  "file": "C:\\Users\\joels\\OneDrive\\Desktop\\MakeMeBetterApp\\android_project\\app\\src\\main\\cpp\\ece420_main.cpp"
+},
+{
+  "directory": "C:/Users/joels/OneDrive/Desktop/MakeMeBetterApp/android_project/app/.cxx/RelWithDebInfo/85d3s96v/x86",
+  "command": "C:\\Users\\joels\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android23 --sysroot=C:/Users/joels/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Decho_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++17 -stdlib=libc++ -Wall -Werror -O2 -g -DNDEBUG -fPIC -o CMakeFiles\\echo.dir\\TextParser.cpp.o -c C:\\Users\\joels\\OneDrive\\Desktop\\MakeMeBetterApp\\android_project\\app\\src\\main\\cpp\\TextParser.cpp",
+  "file": "C:\\Users\\joels\\OneDrive\\Desktop\\MakeMeBetterApp\\android_project\\app\\src\\main\\cpp\\TextParser.cpp"
+},
+{
+  "directory": "C:/Users/joels/OneDrive/Desktop/MakeMeBetterApp/android_project/app/.cxx/RelWithDebInfo/85d3s96v/x86",
+  "command": "C:\\Users\\joels\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android23 --sysroot=C:/Users/joels/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Decho_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++17 -stdlib=libc++ -Wall -Werror -O2 -g -DNDEBUG -fPIC -o CMakeFiles\\echo.dir\\Tuner.cpp.o -c C:\\Users\\joels\\OneDrive\\Desktop\\MakeMeBetterApp\\android_project\\app\\src\\main\\cpp\\Tuner.cpp",
+  "file": "C:\\Users\\joels\\OneDrive\\Desktop\\MakeMeBetterApp\\android_project\\app\\src\\main\\cpp\\Tuner.cpp"
+},
+{
+  "directory": "C:/Users/joels/OneDrive/Desktop/MakeMeBetterApp/android_project/app/.cxx/RelWithDebInfo/85d3s96v/x86",
+  "command": "C:\\Users\\joels\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android23 --sysroot=C:/Users/joels/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Decho_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++17 -stdlib=libc++ -Wall -Werror -O2 -g -DNDEBUG -fPIC -o CMakeFiles\\echo.dir\\Filter.cpp.o -c C:\\Users\\joels\\OneDrive\\Desktop\\MakeMeBetterApp\\android_project\\app\\src\\main\\cpp\\Filter.cpp",
+  "file": "C:\\Users\\joels\\OneDrive\\Desktop\\MakeMeBetterApp\\android_project\\app\\src\\main\\cpp\\Filter.cpp"
+},
+{
+  "directory": "C:/Users/joels/OneDrive/Desktop/MakeMeBetterApp/android_project/app/.cxx/RelWithDebInfo/85d3s96v/x86",
+  "command": "C:\\Users\\joels\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android23 --sysroot=C:/Users/joels/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Decho_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++17 -stdlib=libc++ -Wall -Werror -O2 -g -DNDEBUG -fPIC -o CMakeFiles\\echo.dir\\PitchEventHandler.cpp.o -c C:\\Users\\joels\\OneDrive\\Desktop\\MakeMeBetterApp\\android_project\\app\\src\\main\\cpp\\PitchEventHandler.cpp",
+  "file": "C:\\Users\\joels\\OneDrive\\Desktop\\MakeMeBetterApp\\android_project\\app\\src\\main\\cpp\\PitchEventHandler.cpp"
+},
+{
+  "directory": "C:/Users/joels/OneDrive/Desktop/MakeMeBetterApp/android_project/app/.cxx/RelWithDebInfo/85d3s96v/x86",
+  "command": "C:\\Users\\joels\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android23 --sysroot=C:/Users/joels/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Decho_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++17 -stdlib=libc++ -Wall -Werror -O2 -g -DNDEBUG -fPIC -o CMakeFiles\\echo.dir\\EnvelopeGenerator.cpp.o -c C:\\Users\\joels\\OneDrive\\Desktop\\MakeMeBetterApp\\android_project\\app\\src\\main\\cpp\\EnvelopeGenerator.cpp",
+  "file": "C:\\Users\\joels\\OneDrive\\Desktop\\MakeMeBetterApp\\android_project\\app\\src\\main\\cpp\\EnvelopeGenerator.cpp"
+},
+{
+  "directory": "C:/Users/joels/OneDrive/Desktop/MakeMeBetterApp/android_project/app/.cxx/RelWithDebInfo/85d3s96v/x86",
+  "command": "C:\\Users\\joels\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android23 --sysroot=C:/Users/joels/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Decho_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++17 -stdlib=libc++ -Wall -Werror -O2 -g -DNDEBUG -fPIC -o CMakeFiles\\echo.dir\\Recorder.cpp.o -c C:\\Users\\joels\\OneDrive\\Desktop\\MakeMeBetterApp\\android_project\\app\\src\\main\\cpp\\Recorder.cpp",
+  "file": "C:\\Users\\joels\\OneDrive\\Desktop\\MakeMeBetterApp\\android_project\\app\\src\\main\\cpp\\Recorder.cpp"
+}
+]

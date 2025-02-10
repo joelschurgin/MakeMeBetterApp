@@ -1,0 +1,3 @@
+C:/Users/joels/OneDrive/Desktop/MakeMeBetterApp/android_project/app/.cxx/RelWithDebInfo/85d3s96v/x86_64/CMakeFiles/echo.dir
+C:/Users/joels/OneDrive/Desktop/MakeMeBetterApp/android_project/app/.cxx/RelWithDebInfo/85d3s96v/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/joels/OneDrive/Desktop/MakeMeBetterApp/android_project/app/.cxx/RelWithDebInfo/85d3s96v/x86_64/CMakeFiles/rebuild_cache.dir

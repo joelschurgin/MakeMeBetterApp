@@ -1,0 +1,2 @@
+C:\Users\joels\OneDrive\Desktop\MakeMeBetterApp\android_project\app\src\main\cpp\CMakeLists.txt
+C:\Users\joels\OneDrive\Desktop\MakeMeBetterApp\android_project\app\src\main\cpp\ndk-stl-config.cmake

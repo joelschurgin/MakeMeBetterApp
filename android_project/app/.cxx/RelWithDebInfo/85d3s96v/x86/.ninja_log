@@ -1,0 +1,16 @@
+# ninja log v5
+51	236	7608558379795152	CMakeFiles/echo.dir/kiss_fft/kiss_fft.c.o	9322817f806a74be
+0	507	7608558382350946	CMakeFiles/echo.dir/audio_common.cpp.o	2771aad374d07382
+90	522	7608558382440975	CMakeFiles/echo.dir/PitchEventHandler.cpp.o	9c8a8d0e3236a943
+32	525	7608558382660965	CMakeFiles/echo.dir/debug_utils.cpp.o	4f1ff214fdfb719e
+24	528	7608558382660965	CMakeFiles/echo.dir/audio_recorder.cpp.o	4c3d995c113fece1
+16	530	7608558382660965	CMakeFiles/echo.dir/audio_player.cpp.o	72cd80e50c04088d
+6	532	7608558382700915	CMakeFiles/echo.dir/audio_main.cpp.o	6223f05c444e7cc9
+95	533	7608558382770964	CMakeFiles/echo.dir/EnvelopeGenerator.cpp.o	dd053059a8d241a1
+71	535	7608558382820933	CMakeFiles/echo.dir/Filter.cpp.o	f86c36cda28b9692
+58	537	7608558382830933	CMakeFiles/echo.dir/ece420_lib.cpp.o	d84f1644d1fb5711
+83	602	7608558383507243	CMakeFiles/echo.dir/Recorder.cpp.o	14ad7218aaf9509f
+76	619	7608558383667241	CMakeFiles/echo.dir/TextParser.cpp.o	8fb90b92d0ead66d
+42	723	7608558384704291	CMakeFiles/echo.dir/ece420_main.cpp.o	9019b3c67941f5e6
+64	838	7608558385830144	CMakeFiles/echo.dir/Tuner.cpp.o	46b77d068fc2f511
+839	1057	7608558387890337	C:/Users/joels/OneDrive/Desktop/MakeMeBetterApp/android_project/app/build/intermediates/cxx/RelWithDebInfo/85d3s96v/obj/x86/libecho.so	d7c1b2296d2937c
